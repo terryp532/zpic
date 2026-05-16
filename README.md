@@ -28,7 +28,3 @@ For a Microsoft-hosted classroom environment, use GitHub Codespaces:
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/terryp532/zpic?quickstart=1)
 
-Binder may also work when public capacity is available:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/terryp532/zpic/HEAD?labpath=python%2Fnotebooks%2FREADME.ipynb)
-
