@@ -31,6 +31,8 @@ zpic
 # . (dot) files that various editors leak out
 .*
 !/.gitignore
+!/.devcontainer/
+!/.devcontainer/**
 
 # ignore test directories
 test*/

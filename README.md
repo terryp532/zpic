@@ -1,10 +1,12 @@
 # The ZPIC educational code suite
 
-## Student Binder launch
+## Student Codespaces launch
 
-Use this link for the class Binder session:
+Use this Microsoft/GitHub Codespaces link for the class notebook environment:
 
-[![Launch ZPIC Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/terryp532/zpic/HEAD?labpath=python%2Fnotebooks%2FREADME.ipynb)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/terryp532/zpic?quickstart=1)
+
+After the Codespace opens, start with `python/notebooks/README.ipynb`.
 
 Particle-in-Cell (PIC) codes are used in almost all areas of plasma physics, such as fusion energy research, plasma accelerators, space physics, ion propulsion, and plasma processing, and many other areas. Leveraging on our expertise and experience from the development and use of the OSIRIS PIC code, we have developed a suite of 1D/2D fully relativistic electromagnetic PIC codes, as well as 1D electrostatic. These codes are self-contained and require only a standard laptop/desktop computer with a C compiler to be run. The output files are written in a new file format called ZDF that can be easily read using the supplied routines in a number of languages, such as Python, and IDL. The code suite also includes a number of example problems that can be used to illustrate several textbook and advanced plasma mechanisms, including instructions for parameter space exploration. We also invite contributions to this repository of test problems that will be made freely available to the community provided the input files comply with the format defined by the ZPIC team.
 
@@ -20,9 +22,13 @@ The directory structure is organized as follows:
 
 The project now has its own dedicated website on GitHub pages. You can find all the documentation at [https://zpic-plasma.github.io](https://zpic-plasma.github.io)
 
-## Try ZPIC now on mybinder.org
+## Try ZPIC now
 
-Just launch a JupyterLab session using the button below, and choose any of the available notebooks:
+For a Microsoft-hosted classroom environment, use GitHub Codespaces:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/terryp532/zpic?quickstart=1)
+
+Binder may also work when public capacity is available:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/terryp532/zpic/HEAD?labpath=python%2Fnotebooks%2FREADME.ipynb)
 
